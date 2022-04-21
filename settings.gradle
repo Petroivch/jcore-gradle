@@ -1,0 +1,4 @@
+rootProject.name = 'jcore-gradle'
+include 'db'
+include 'api'
+include 'service'
